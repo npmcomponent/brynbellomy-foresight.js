@@ -8,6 +8,6 @@
   "development": {},
   "license": "MIT",
   "scripts": [
-    "foresight.min.js"
+    "index.js"
   ]
 }
