@@ -1,0 +1,13 @@
+{
+  "name": "foresight.js",
+  "repo": "brynbellomy/foresight.js",
+  "description": "foresight.js as a component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "foresight.min.js"
+  ]
+}
